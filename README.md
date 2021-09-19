@@ -1,4 +1,4 @@
-# semestre_2
+# semestre 2 (tres en raya)
 # Universidad Católica San Pablo - Departamento de Ciencia de la Computación
 
 ------------- 3 en raya ----------------
